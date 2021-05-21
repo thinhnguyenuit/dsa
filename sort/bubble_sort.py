@@ -1,5 +1,4 @@
 import random
-import array
 
 
 def bubble_sort(arr: list) -> list:
